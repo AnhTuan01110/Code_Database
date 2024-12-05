@@ -1,0 +1,54 @@
+D:\QLDiem-main\Quanlibanquanao\Quanlibanquanao\bin\Debug\Quanlibanquanao.exe.config
+D:\QLDiem-main\Quanlibanquanao\Quanlibanquanao\bin\Debug\Quanlibanquanao.exe
+D:\QLDiem-main\Quanlibanquanao\Quanlibanquanao\bin\Debug\Quanlibanquanao.pdb
+D:\QLDiem-main\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.csproj.AssemblyReference.cache
+D:\QLDiem-main\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.Properties.Resources.resources
+D:\QLDiem-main\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.csproj.GenerateResource.cache
+D:\QLDiem-main\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.csproj.CoreCompileInputs.cache
+D:\QLDiem-main\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.exe
+D:\QLDiem-main\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.pdb
+D:\QLDiem-main\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.admin.resources
+D:\QLDiem-main\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.staff.resources
+D:\QLDiem-main\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.warehouse.resources
+D:\QLDiem-main\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.Login.resources
+D:\Quanlibanquanao\Quanlibanquanao\bin\Debug\Quanlibanquanao.exe.config
+D:\Quanlibanquanao\Quanlibanquanao\bin\Debug\Quanlibanquanao.exe
+D:\Quanlibanquanao\Quanlibanquanao\bin\Debug\Quanlibanquanao.pdb
+D:\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.csproj.AssemblyReference.cache
+D:\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.admin.resources
+D:\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.Login.resources
+D:\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.Properties.Resources.resources
+D:\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.staff.resources
+D:\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.warehouse.resources
+D:\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.csproj.GenerateResource.cache
+D:\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.csproj.CoreCompileInputs.cache
+D:\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.exe
+D:\Quanlibanquanao\Quanlibanquanao\obj\Debug\Quanlibanquanao.pdb
+D:\QuanLiBanQuanAo_Database-master\Quanlibanquanao\obj\Debug\Quanlibanquanao.csproj.AssemblyReference.cache
+D:\QuanLiBanQuanAo_Database-master\Quanlibanquanao\obj\Debug\Quanlibanquanao.admin.resources
+D:\QuanLiBanQuanAo_Database-master\Quanlibanquanao\obj\Debug\Quanlibanquanao.Login.resources
+D:\QuanLiBanQuanAo_Database-master\Quanlibanquanao\obj\Debug\Quanlibanquanao.Properties.Resources.resources
+D:\QuanLiBanQuanAo_Database-master\Quanlibanquanao\obj\Debug\Quanlibanquanao.staff.resources
+D:\QuanLiBanQuanAo_Database-master\Quanlibanquanao\obj\Debug\Quanlibanquanao.warehouse.resources
+D:\QuanLiBanQuanAo_Database-master\Quanlibanquanao\obj\Debug\Quanlibanquanao.csproj.GenerateResource.cache
+D:\QuanLiBanQuanAo_Database-master\Quanlibanquanao\obj\Debug\Quanlibanquanao.csproj.CoreCompileInputs.cache
+D:\QuanLiBanQuanAo_Database-master\Quanlibanquanao\obj\Debug\Quanlibanquanao.exe
+D:\QuanLiBanQuanAo_Database-master\Quanlibanquanao\obj\Debug\Quanlibanquanao.pdb
+D:\QuanLiBanQuanAo_Database-master\Quanlibanquanao\bin\Debug\Quanlibanquanao.exe.config
+D:\QuanLiBanQuanAo_Database-master\Quanlibanquanao\bin\Debug\Quanlibanquanao.exe
+D:\QuanLiBanQuanAo_Database-master\Quanlibanquanao\bin\Debug\Quanlibanquanao.pdb
+D:\QuanLiBanQuanAo_Database-master\Quanlibanquanao\obj\Debug\Quanlibanquanao.Employee.resources
+C:\Users\ADmin\OneDrive\Máy tính\Quan ao\Quanlibanquanao\bin\Debug\Quanlibanquanao.exe.config
+C:\Users\ADmin\OneDrive\Máy tính\Quan ao\Quanlibanquanao\bin\Debug\Quanlibanquanao.exe
+C:\Users\ADmin\OneDrive\Máy tính\Quan ao\Quanlibanquanao\bin\Debug\Quanlibanquanao.pdb
+C:\Users\ADmin\OneDrive\Máy tính\Quan ao\Quanlibanquanao\obj\Debug\Quanlibanquanao.csproj.AssemblyReference.cache
+C:\Users\ADmin\OneDrive\Máy tính\Quan ao\Quanlibanquanao\obj\Debug\Quanlibanquanao.admin.resources
+C:\Users\ADmin\OneDrive\Máy tính\Quan ao\Quanlibanquanao\obj\Debug\Quanlibanquanao.Employee.resources
+C:\Users\ADmin\OneDrive\Máy tính\Quan ao\Quanlibanquanao\obj\Debug\Quanlibanquanao.Login.resources
+C:\Users\ADmin\OneDrive\Máy tính\Quan ao\Quanlibanquanao\obj\Debug\Quanlibanquanao.Properties.Resources.resources
+C:\Users\ADmin\OneDrive\Máy tính\Quan ao\Quanlibanquanao\obj\Debug\Quanlibanquanao.staff.resources
+C:\Users\ADmin\OneDrive\Máy tính\Quan ao\Quanlibanquanao\obj\Debug\Quanlibanquanao.warehouse.resources
+C:\Users\ADmin\OneDrive\Máy tính\Quan ao\Quanlibanquanao\obj\Debug\Quanlibanquanao.csproj.GenerateResource.cache
+C:\Users\ADmin\OneDrive\Máy tính\Quan ao\Quanlibanquanao\obj\Debug\Quanlibanquanao.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\OneDrive\Máy tính\Quan ao\Quanlibanquanao\obj\Debug\Quanlibanquanao.exe
+C:\Users\ADmin\OneDrive\Máy tính\Quan ao\Quanlibanquanao\obj\Debug\Quanlibanquanao.pdb
